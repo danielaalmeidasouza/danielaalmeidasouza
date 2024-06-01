@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 👩‍🏫
 
-<!--
-**danielaalmeidasouza/danielaalmeidasouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniela Almeida
 
-Here are some ideas to get you started:
+Estou estudando no [Alura](https://cursos.alura.com.br/dashboard)
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entar em contato comigo 📫
+
+danielaalmeidasouza@prof.educacao.sp.gov.br
+
+@dani_emanoel  
+
+![](https://media.tenor.com/lhxrDbeO5W0AAAAj/thinking-of-you-miss-you.gif)
